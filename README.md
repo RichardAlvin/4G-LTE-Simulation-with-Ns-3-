@@ -1,8 +1,6 @@
 # 4G-LTE-Simulation-with-Ns-3-
 
 This is project for wireless course
-[InternetShortcut]
-URL=https://github.com/RichardAlvin/4G-LTE-Simulation-with-Ns-3-
 
 There are 2 files
 
